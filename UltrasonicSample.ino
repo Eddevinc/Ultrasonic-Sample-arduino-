@@ -7,7 +7,7 @@
  560 ohm resistor to both LED NEG and GRD power rail
  More info at: http://goo.gl/kJ8Gl
  Original code improvements to the Ping sketch sourced from Trollmaker.com
- Some code and wiring inspired by http://en.wikiversity.org/wiki/User:Dstaub/robotcar
+
  */
 
 #define trigPin 13
